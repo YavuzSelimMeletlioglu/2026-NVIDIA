@@ -10,11 +10,11 @@
 
 | Role | Name | GitHub Handle | Discord Handle |
 | :--- | :--- | :--- | :--- |
-| **Project Lead** (Architect) | Yavuz Selim Meletlioglu | @YavuzSelimMeletlioglu | @YavuzSelimMeletlioglu |
-| **GPU Acceleration PIC** (Builder) | Berk Berat Turan | @BerkBeratTuran | @BerkBeratTuran |
-| **GPU Acceleration PIC** (Builder) | Aytuğ Şahinkanat | @AytugSahinkanat | @AytugSahinkanat |
-| **Quality Assurance PIC** (Verifier) | Ozan Bilmez | @OzanBilmez | @OzanBilmez |
-| **Technical Marketing PIC** (Storyteller) | Hasan Zafer Bilir | @HasanZaferBilir | @HasanZaferBilir |
+| **Project Lead** (Architect) | Yavuz Selim Meletlioglu | @YavuzSelimMeletlioglu | @Yavuz |
+| **GPU Acceleration PIC** (Builder) | Berk Berat Turan | @BerkBerat | @berkberat |
+| **Quality Assurance PIC** (Verifier) | Ozan Bilmez | @oziwaNNN | @oziwan |
+| **Technical Marketing PIC** (Storyteller) | Aytuğ Şahinkanat | @AytugSahinkanat | @aytugsahinkanat |
+| **Technical Marketing PIC** (Storyteller) | Hasan Zafer Bilir | @Hasan1Zafer | @ZaferTheKnows |
 
 ---
 
