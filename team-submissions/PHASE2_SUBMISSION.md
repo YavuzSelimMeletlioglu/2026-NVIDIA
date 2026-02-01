@@ -80,16 +80,16 @@ The following data compares our Classical-Only solver against the Quantum-Hybrid
 
 The following plots visualize the performance trade-offs and scaling behavior of our hybrid solution compared to the classical baseline.
 
-![Execution Time Comparison](plots/Execution Time Comparison N(3-24).jpeg)  
+![Execution Time Comparison](plots/Execution Time Comparison N(3-24).png)  
 *Figure 1: Execution Time Comparison (Classical vs Quantum Hybrid). Note the exponential scaling of the quantum simulation time.*
 
-![Energy Comparison](plots/Best Energy Found N(3-24).jpeg)  
+![Energy Comparison](plots/Best Energy Found N(3-24).png)  
 *Figure 2: Best Energy Found Comparison. The Hybrid solver (Blue) closely tracks or outperforms the Classical solver (Red) in higher N regimes.*
 
-![Execution Time Comparison](plots/Execution Time Comparison N(25-31).jpeg)  
+![Execution Time Comparison](plots/Execution Time Comparison N(25-31).png)  
 *Figure 3: Execution Time Comparison (Classical vs Quantum Hybrid). Note the exponential scaling of the quantum simulation time.*
 
-![Energy Comparison](plots/Best Energy Found N(25-31).jpeg)  
+![Energy Comparison](plots/Best Energy Found N(25-31).png)  
 *Figure 4: Best Energy Found Comparison. The Hybrid solver (Blue) closely tracks or outperforms the Classical solver (Red) in higher N regimes.*
 
 
